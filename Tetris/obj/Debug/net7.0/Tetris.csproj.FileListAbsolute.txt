@@ -1,0 +1,15 @@
+C:\Users\parkw\source\repos\Tetris\bin\Debug\net7.0\Tetris.exe
+C:\Users\parkw\source\repos\Tetris\bin\Debug\net7.0\Tetris.deps.json
+C:\Users\parkw\source\repos\Tetris\bin\Debug\net7.0\Tetris.runtimeconfig.json
+C:\Users\parkw\source\repos\Tetris\bin\Debug\net7.0\Tetris.dll
+C:\Users\parkw\source\repos\Tetris\bin\Debug\net7.0\Tetris.pdb
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.csproj.AssemblyReference.cache
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.AssemblyInfoInputs.cache
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.AssemblyInfo.cs
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.dll
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\refint\Tetris.dll
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.pdb
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\Tetris.genruntimeconfig.cache
+C:\Users\parkw\source\repos\Tetris\obj\Debug\net7.0\ref\Tetris.dll

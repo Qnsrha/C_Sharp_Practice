@@ -1,0 +1,15 @@
+C:\Users\parkw\source\repos\TextRPG\bin\Debug\net7.0\TextRPG.exe
+C:\Users\parkw\source\repos\TextRPG\bin\Debug\net7.0\TextRPG.deps.json
+C:\Users\parkw\source\repos\TextRPG\bin\Debug\net7.0\TextRPG.runtimeconfig.json
+C:\Users\parkw\source\repos\TextRPG\bin\Debug\net7.0\TextRPG.dll
+C:\Users\parkw\source\repos\TextRPG\bin\Debug\net7.0\TextRPG.pdb
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.csproj.AssemblyReference.cache
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.AssemblyInfo.cs
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.dll
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\refint\TextRPG.dll
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.pdb
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\TextRPG.genruntimeconfig.cache
+C:\Users\parkw\source\repos\TextRPG\obj\Debug\net7.0\ref\TextRPG.dll

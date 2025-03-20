@@ -1,0 +1,15 @@
+C:\Users\parkw\source\repos\Zone\bin\Debug\net7.0\Zone.exe
+C:\Users\parkw\source\repos\Zone\bin\Debug\net7.0\Zone.deps.json
+C:\Users\parkw\source\repos\Zone\bin\Debug\net7.0\Zone.runtimeconfig.json
+C:\Users\parkw\source\repos\Zone\bin\Debug\net7.0\Zone.dll
+C:\Users\parkw\source\repos\Zone\bin\Debug\net7.0\Zone.pdb
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.csproj.AssemblyReference.cache
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.AssemblyInfoInputs.cache
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.AssemblyInfo.cs
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.csproj.CoreCompileInputs.cache
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.dll
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\refint\Zone.dll
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.pdb
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\Zone.genruntimeconfig.cache
+C:\Users\parkw\source\repos\Zone\obj\Debug\net7.0\ref\Zone.dll

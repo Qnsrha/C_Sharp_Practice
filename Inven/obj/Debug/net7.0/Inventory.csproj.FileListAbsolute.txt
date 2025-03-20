@@ -1,0 +1,15 @@
+C:\Users\parkw\source\repos\Inven\bin\Debug\net7.0\Inventory.exe
+C:\Users\parkw\source\repos\Inven\bin\Debug\net7.0\Inventory.deps.json
+C:\Users\parkw\source\repos\Inven\bin\Debug\net7.0\Inventory.runtimeconfig.json
+C:\Users\parkw\source\repos\Inven\bin\Debug\net7.0\Inventory.dll
+C:\Users\parkw\source\repos\Inven\bin\Debug\net7.0\Inventory.pdb
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.csproj.AssemblyReference.cache
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.AssemblyInfo.cs
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.dll
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\refint\Inventory.dll
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.pdb
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\Inventory.genruntimeconfig.cache
+C:\Users\parkw\source\repos\Inven\obj\Debug\net7.0\ref\Inventory.dll
